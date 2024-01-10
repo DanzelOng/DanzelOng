@@ -1,7 +1,9 @@
 <h1 align="center">Hey, I'm Danzel 👋</h1>
 
 ### About Me
-I am currently an undergraduate pursuing an Information Technology Degree at Singapore University of Social Sciences.
+I am currently an undergraduate pursuing an Information Technology Degree at Singapore University of Social Sciences. <br>
+I am passionate in front end development and currently learning full stack web development.
+
 
 ### Connect with Me
 <p>
